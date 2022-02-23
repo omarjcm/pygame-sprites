@@ -1,1 +1,1 @@
-"# pygame-sprites" 
+# pygame-sprites
